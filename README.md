@@ -5,7 +5,7 @@
     - Reinforcement Learning and its applications in Mean Field Type Games, Recommendation Systems, and Causality.
     - ML for cognitive science(used to, but now have less passion after I participated one EEG project in Abu Dhabi and NYU's DG-GA 1013 Computational Cognitive Modelling class)
 -  I wouldn't say I like computer vision and LLMs.
--  I want to do one more RL with recommendation system project before I graduate.
+-  I want to do one more RL for recommendation system project before I graduate.
 
 ## I live in Wanzhou, Chongqing City, a mountainous city famous for its grilled fish and noodles.
 - I love playing basketball in the street court by the Yangtze River during sunset

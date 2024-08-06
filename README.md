@@ -2,8 +2,8 @@
 -  I'm generally interested in the following fields:
     - Causal ML and its applications in graph, NLP, and RL 
     - Recommendation Systems
-    - Reinforcement Learning and its applications in Mean Field Type Games, Recommendation Systems, and Causality.
-    - ML for cognitive science(used to, but now have less passion after I participated one EEG project in Abu Dhabi and NYU's DG-GA 1013 Computational Cognitive Modelling class)
+    - Reinforcement Learning and its applications in Games theory, Recommendation Systems, and Causality.
+    - ML for cognitive science(used to be passionate, but now have less passion after I participated in one EEG project in Abu Dhabi and attend NYU's DG-GA 1013 Computational Cognitive Modelling class)
 -  I wouldn't say I like computer vision and LLMs.
 -  I want to do one more RL for recommendation system project before I graduate.
 

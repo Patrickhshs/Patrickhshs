@@ -1,12 +1,12 @@
 ## Hi there 👋, I'm Patrick Jiacheng Shen from NYU class of 2025
 -  I'm generally interested in the following fields:
-    - Causal ML and its applications in graph, NLP, and RL
     - Graph Machine Learning
     - Recommendation Systems
-    - Reinforcement Learning and its applications in Games theory, Recommendation Systems, and Causality.
-    - ML for cognitive science(used to be passionate, but now have less passion after I participated in one EEG project in Abu Dhabi and attend NYU's DG-GA 1013 Computational Cognitive Modelling class)
--  I wouldn't say I like computer vision and LLMs.
--  I want to do one more RL for recommendation system project before I graduate.
+    - Reinforcement Learning and its applications in Games theory.
+    - ML for cognitive science.
+    - Causal ML and its applications in graph, NLP, and RL.
+    - Generative Model Alignment with Human Preference. 
+-  I wouldn't say I like computer vision. 
 
 ## I live in Wanzhou, Chongqing City, a mountainous city famous for its grilled fish and noodles.
 - I love playing basketball in the street court by the Yangtze River during sunset

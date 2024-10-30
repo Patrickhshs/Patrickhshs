@@ -1,20 +1,27 @@
-## Hi there 👋, I'm Patrick Jiacheng Shen from NYU class of 2025
--  I'm generally interested in the following fields:
-    - Graph Machine Learning
-    - Recommendation Systems
-    - Reinforcement Learning and its applications in Games theory.
-    - ML for cognitive science.
-    - Causal ML and its applications in graph, NLP, and RL.
-    - Generative Model Alignment with Human Preference. 
--  I wouldn't say I like computer vision.
+## Hey there 👋 I'm Patrick Jiacheng Shen, NYU '25
 
-## My Academic Work
-[Google Scholar](https://scholar.google.com/citations?user=a0EzT5QAAAAJ&hl=en)
+### A bit about my interests:
+- I'm really into:
+  - Graph Machine Learning
+  - Recommendation Systems
+  - Reinforcement Learning (especially in Game Theory)
+  - ML for Cognitive Science
+  - Causal ML, especially in graphs, NLP, and RL
+  - Aligning Generative Models with Human Preferences
+- Not a fan of computer vision.
 
-## I live in Wanzhou, Chongqing City, a mountainous city famous for its grilled fish and noodles.
-- I love playing basketball in the street court by the Yangtze River during sunset
-- I love driving on the Bay Road in Wanzhou, Chongqing City.
-- I love washing feet.
+### Academic Stuff
+Check out my work on [Google Scholar](https://scholar.google.com/citations?user=a0EzT5QAAAAJ&hl=en)
+
+### Music is Life 🎶
+- I play acoustic/electric guitar and bass.
+- Been a fan of Omnipresent Youth Society (万能青年旅店) since I was 13.
+
+### A Little About Home
+I’m from Wanzhou, Chongqing City—a mountainous spot known for its grilled fish and noodles.
+- I’m all about street basketball 🏀.
+- Love driving 🚗.
+
 
 <h3>My GitHub contributions summary</h3>
 

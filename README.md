@@ -4,9 +4,9 @@
 - I'm really into:
   - Graph Machine Learning
   - Recommendation Systems
-  - Reinforcement Learning (especially in Game Theory)
+  - Reinforcement Learning and Multi-agent system.
   - ML for Cognitive Science
-  - Causal ML, especially in graphs, NLP, and RL
+  - Causal ML with applications in graphs, NLP, and RL
   - Aligning Generative Models with Human Preferences
 - Not a fan of computer vision.
 

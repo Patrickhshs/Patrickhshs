@@ -21,10 +21,3 @@ Check out my work on [Google Scholar](https://scholar.google.com/citations?user=
 I’m from Wanzhou, Chongqing City—a mountainous spot known for its grilled fish and noodles.
 - I’m all about street basketball 🏀.
 - Love driving 🚗.
-
-
-<h3>My GitHub contributions summary</h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Patrickhshs)](https://github.com/anuraghazra/github-readme-stats)
-
-![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=Patrickhshs&theme=default&show_icons=true)

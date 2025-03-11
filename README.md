@@ -1,4 +1,4 @@
-## Hey there 👋 I'm Patrick Jiacheng Shen, NYU '25
+## Hey there 👋 I'm Patrick Shěn Jiāchéng(沈嘉诚), NYU Shanghai'25, NYU Center for Data Science '30
 
 ### A bit about my interests:
 - I'm really into:

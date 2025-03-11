@@ -2,9 +2,8 @@
 
 ### A bit about my interests:
 - I'm really into:
-  - Recommendation Systems
   - Reinforcement Learning and Multi-agent system.
-  - Causal ML with applications in graphs, NLP, and RL
+  - Causal ML with applications in graphs, NLP, and RL.
 - Not a fan of computer vision.
 
 ### Academic Stuff

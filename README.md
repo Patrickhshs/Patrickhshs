@@ -4,7 +4,6 @@
 - I'm really into:
   - Reinforcement Learning and Multi-agent system.
   - Causal ML with applications in graphs, NLP, and RL.
-- Not a fan of computer vision.
 
 ### Academic Stuff
 Check out my work on [Google Scholar](https://scholar.google.com/citations?user=a0EzT5QAAAAJ&hl=en)

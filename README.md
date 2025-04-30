@@ -1,4 +1,4 @@
-## Hey there 👋 I'm Patrick Shěn Jiāchéng(沈嘉诚), NYU Shanghai'25
+## Hey there 👋 I'm Patrick Shěn Jiāchéng(沈嘉诚), a CS undergras at NYU Shanghai'25
 
 ### A bit about my interests:
 - I'm really into:
